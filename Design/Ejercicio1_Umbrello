@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<XMI xmi.version="1.2" timestamp="2024-05-07T20:23:35" verified="false" xmlns:UML="http://schema.omg.org/spec/UML/1.4">
+<XMI xmi.version="1.2" timestamp="2024-05-07T20:28:35" verified="false" xmlns:UML="http://schema.omg.org/spec/UML/1.4">
  <XMI.header>
   <XMI.documentation>
    <XMI.exporter>umbrello uml modeller 2.32.3 http://umbrello.kde.org</XMI.exporter>
@@ -123,14 +123,14 @@
       <diagrams resolution="96">
        <diagram xmi.id="u9cVrXJr2IC5K" name="diagrama de clases" type="1" documentation="" backgroundcolor="#ffffff" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" griddotcolor="#eeeeee" linecolor="#ff0000" linewidth="0" textcolor="#000000" usefillcolor="1" showattribassocs="1" showatts="1" showattsig="1" showops="1" showopsig="1" showpackage="1" showpubliconly="0" showscope="1" showstereotype="2" localid="-1" showgrid="0" snapgrid="0" snapcsgrid="0" snapx="25" snapy="25" zoom="100" canvasheight="411" canvaswidth="1108" isopen="1">
         <widgets>
-         <floatingtext xmi.id="u4EEHgIeNDPY2" localid="uoFqTNaoozcpP" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" x="-891" y="-199" width="346" height="19" isinstance="0" showstereotype="2" text="Manejo de la comunicación entre estudiantes y empresas." pretext="" posttext="" role="700"/>
-         <floatingtext xmi.id="uTsO0n2BuQ2oL" localid="uqf4dmRuaTV80" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" x="-436" y="-540" width="311" height="19" isinstance="0" showstereotype="2" text="Agrupa proyectos bajo un año académico específico" pretext="" posttext="" role="700"/>
-         <classwidget xmi.id="unZlChMNDRZdq" localid="utryUYMYV5HPn" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0,Regular" autoresize="0" x="-436" y="-328" width="167" height="160" isinstance="0" showstereotype="2" showoperations="1" showpubliconly="0" showopsigs="601" showpackage="1" showscope="1" showattributes="1" showattsigs="601" showstereotype="2"/>
-         <classwidget xmi.id="uPKSvoy2Nhx82" localid="utEXoz1OQ4sUs" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0,Regular" autoresize="0" x="-794" y="-328" width="122" height="105" isinstance="0" showstereotype="2" showoperations="1" showpubliconly="0" showopsigs="601" showpackage="1" showscope="1" showattributes="1" showattsigs="601" showstereotype="2"/>
          <floatingtext xmi.id="uDYLs5wzOxvVm" localid="uWJTtIK7NTe0F" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" x="-206" y="-175" width="423" height="19" isinstance="0" showstereotype="2" text="Detalles y documentación de los proyectos subidos por los estudiantes" pretext="" posttext="" role="700"/>
          <classwidget xmi.id="uQXICC85vIycJ" localid="uylJiwDdPYNso" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0,Regular" autoresize="0" x="-110" y="-326" width="199" height="154" isinstance="0" showstereotype="2" showoperations="1" showpubliconly="0" showopsigs="601" showpackage="1" showscope="1" showattributes="1" showattsigs="601" showstereotype="2"/>
-         <classwidget xmi.id="uAWdmUAxGdZi3" localid="uuDmy8vwdoJr2" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0,Regular" autoresize="0" x="-345" y="-513" width="148" height="98" isinstance="0" showstereotype="2" showoperations="1" showpubliconly="0" showopsigs="601" showpackage="1" showscope="1" showattributes="1" showattsigs="601" showstereotype="2"/>
          <floatingtext xmi.id="umVhSlQsKLhiY" localid="uXuM9lwLVjR90" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" x="-532" y="-148" width="394" height="19" isinstance="0" showstereotype="2" text="Representa a los estudiantes, profesores y visitantes corporativos" pretext="" posttext="" role="700"/>
+         <floatingtext xmi.id="u4EEHgIeNDPY2" localid="uoFqTNaoozcpP" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" x="-891" y="-199" width="346" height="19" isinstance="0" showstereotype="2" text="Manejo de la comunicación entre estudiantes y empresas." pretext="" posttext="" role="700"/>
+         <classwidget xmi.id="unZlChMNDRZdq" localid="utryUYMYV5HPn" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0,Regular" autoresize="0" x="-436" y="-328" width="167" height="160" isinstance="0" showstereotype="2" showoperations="1" showpubliconly="0" showopsigs="601" showpackage="1" showscope="1" showattributes="1" showattsigs="601" showstereotype="2"/>
+         <classwidget xmi.id="uPKSvoy2Nhx82" localid="utEXoz1OQ4sUs" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0,Regular" autoresize="0" x="-794" y="-328" width="122" height="105" isinstance="0" showstereotype="2" showoperations="1" showpubliconly="0" showopsigs="601" showpackage="1" showscope="1" showattributes="1" showattsigs="601" showstereotype="2"/>
+         <classwidget xmi.id="uAWdmUAxGdZi3" localid="uuDmy8vwdoJr2" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0,Regular" autoresize="0" x="-345" y="-513" width="148" height="98" isinstance="0" showstereotype="2" showoperations="1" showpubliconly="0" showopsigs="601" showpackage="1" showscope="1" showattributes="1" showattsigs="601" showstereotype="2"/>
+         <floatingtext xmi.id="uTsO0n2BuQ2oL" localid="uqf4dmRuaTV80" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" x="-436" y="-540" width="311" height="19" isinstance="0" showstereotype="2" text="Agrupa proyectos bajo un año académico específico" pretext="" posttext="" role="700"/>
         </widgets>
         <messages/>
         <associations>
@@ -152,15 +152,6 @@
            <endpoint endx="-436" endy="-328"/>
           </linepath>
          </assocwidget>
-         <assocwidget xmi.id="uBC5MXY1BqYbd" localid="uVMbED3KW6uF9" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" seqnum="" xmi.id="uBC5MXY1BqYbd" type="503" widgetaid="unZlChMNDRZdq" widgetbid="uQXICC85vIycJ" indexa="1" totalcounta="2" indexb="1" totalcountb="2">
-          <floatingtext xmi.id="uQHJIYd3ohQni" localid="uk4DSNJs7Ba2D" textcolor="none" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu,10,-1,5,50,0,0,0,0,0,Regular" autoresize="1" x="-267" y="-278" width="15" height="19" isinstance="0" showstereotype="2" text="1" pretext="" posttext="" role="701"/>
-          <floatingtext xmi.id="u4gDEw5SnKWhH" localid="uxPqkOSdqaHAx" textcolor="none" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu,10,-1,5,50,0,0,0,0,0,Regular" autoresize="1" x="-140" y="-277" width="28" height="19" isinstance="0" showstereotype="2" text="1..*" pretext="" posttext="" role="702"/>
-          <floatingtext xmi.id="uAC2ZBJLA9C1R" localid="uVo5GSayuWQTd" textcolor="none" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu,10,-1,5,50,0,0,0,0,0,Regular" autoresize="1" x="-189.5" y="-257" width="40" height="19" isinstance="0" showstereotype="2" text="SUBE" pretext="" posttext="" role="703"/>
-          <linepath layout="Direct">
-           <startpoint startx="-269" starty="-257"/>
-           <endpoint endx="-110" endy="-257"/>
-          </linepath>
-         </assocwidget>
          <assocwidget xmi.id="ueu6ZO2Lz7WZY" localid="uRZMA9DXZwSWz" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" seqnum="" xmi.id="ueu6ZO2Lz7WZY" type="503" widgetaid="uPKSvoy2Nhx82" widgetbid="unZlChMNDRZdq" indexa="1" totalcounta="2" indexb="1" totalcountb="2">
           <floatingtext xmi.id="uQj48EyyPNKn7" localid="umpoCHikXWfdr" textcolor="none" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu,10,-1,5,50,0,0,0,0,0,Regular" autoresize="1" x="-670" y="-269" width="15" height="19" isinstance="0" showstereotype="2" text="1" pretext="" posttext="" role="701"/>
           <floatingtext xmi.id="ui361L6ld1ht9" localid="ua5c4Dc8Z3H9l" textcolor="none" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu,10,-1,5,50,0,0,0,0,0,Regular" autoresize="1" x="-466" y="-269" width="28" height="19" isinstance="0" showstereotype="2" text="1..*" pretext="" posttext="" role="702"/>
@@ -168,6 +159,15 @@
           <linepath layout="Direct">
            <startpoint startx="-672" starty="-248"/>
            <endpoint endx="-436" endy="-248"/>
+          </linepath>
+         </assocwidget>
+         <assocwidget xmi.id="uBC5MXY1BqYbd" localid="uVMbED3KW6uF9" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" seqnum="" xmi.id="uBC5MXY1BqYbd" type="503" widgetaid="unZlChMNDRZdq" widgetbid="uQXICC85vIycJ" indexa="1" totalcounta="2" indexb="1" totalcountb="2">
+          <floatingtext xmi.id="uQHJIYd3ohQni" localid="uk4DSNJs7Ba2D" textcolor="none" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu,10,-1,5,50,0,0,0,0,0,Regular" autoresize="1" x="-267" y="-278" width="15" height="19" isinstance="0" showstereotype="2" text="1" pretext="" posttext="" role="701"/>
+          <floatingtext xmi.id="u4gDEw5SnKWhH" localid="uxPqkOSdqaHAx" textcolor="none" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu,10,-1,5,50,0,0,0,0,0,Regular" autoresize="1" x="-140" y="-277" width="28" height="19" isinstance="0" showstereotype="2" text="1..*" pretext="" posttext="" role="702"/>
+          <floatingtext xmi.id="uAC2ZBJLA9C1R" localid="uVo5GSayuWQTd" textcolor="none" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="1" usesdiagramusefillcolor="1" fillcolor="none" font="Ubuntu,10,-1,5,50,0,0,0,0,0,Regular" autoresize="1" x="-189.5" y="-257" width="40" height="19" isinstance="0" showstereotype="2" text="SUBE" pretext="" posttext="" role="703"/>
+          <linepath layout="Direct">
+           <startpoint startx="-269" starty="-257"/>
+           <endpoint endx="-110" endy="-257"/>
           </linepath>
          </assocwidget>
         </associations>
@@ -215,6 +215,7 @@
        </UML:Association.connection>
       </UML:Association>
       <UML:UseCase isSpecification="false" isLeaf="false" isRoot="false" isAbstract="false" xmi.id="uAYbntShhZFU4" name="recibir y/o visualizar mensajes" namespace="Use_Case_View" visibility="public"/>
+      <UML:UseCase isSpecification="false" isLeaf="false" isRoot="false" isAbstract="false" xmi.id="ugR3igSJRTDOq" name="Autenticación" namespace="Use_Case_View" visibility="public"/>
      </UML:Namespace.ownedElement>
      <XMI.extension xmi.extender="umbrello">
       <diagrams resolution="96">
@@ -230,10 +231,11 @@
          <actorwidget xmi.id="uDjrnSkrjIdaj" localid="uzVvet4mKKT46" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="0" x="-699" y="-162" width="136" height="136" isinstance="0" showstereotype="2"/>
          <boxwidget xmi.id="uYQ6ef852vyzP" localid="uyuLyxlSTrynR" textcolor="#000000" linecolor="#000000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="0" x="-538" y="-571" width="606" height="597" isinstance="0" showstereotype="2"/>
          <usecasewidget xmi.id="u7hazY7n267ip" localid="uYCYkLxyLlhOM" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" x="-225" y="-313" width="328" height="50" isinstance="0" showstereotype="2"/>
-         <floatingtext xmi.id="uoDA21vwUWe7u" localid="uQIxPceqR8FMI" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" x="-531" y="-567" width="54" height="19" isinstance="0" showstereotype="2" text="Sistema" pretext="" posttext="" role="700"/>
          <usecasewidget xmi.id="uAYbntShhZFU4" localid="u2tEXrpwygQ4O" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" x="-281" y="-141" width="196" height="50" isinstance="0" showstereotype="2"/>
          <usecasewidget xmi.id="uMDnJSGkzIxx3" localid="uc0BCgGh3CzqT" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" x="-208" y="-454" width="323" height="50" isinstance="0" showstereotype="2"/>
-         <usecasewidget xmi.id="uZuUDjYUMyH3Q" localid="uWHevh8r1sfYA" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" x="-382" y="-548" width="158" height="50" isinstance="0" showstereotype="2"/>
+         <usecasewidget xmi.id="uZuUDjYUMyH3Q" localid="uWHevh8r1sfYA" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" x="-372" y="-537" width="158" height="50" isinstance="0" showstereotype="2"/>
+         <floatingtext xmi.id="uoDA21vwUWe7u" localid="uq6e9tXL8xmVk" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" x="-531" y="-567" width="54" height="19" isinstance="0" showstereotype="2" text="Sistema" pretext="" posttext="" role="700"/>
+         <usecasewidget xmi.id="ugR3igSJRTDOq" localid="usFrsek0QDsV1" textcolor="#000000" linecolor="#ff0000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,10,-1,5,50,0,0,0,0,0" autoresize="1" x="-513" y="-542" width="97" height="50" isinstance="0" showstereotype="2"/>
         </widgets>
         <messages/>
         <associations>
@@ -267,12 +269,13 @@
   </UML:Model>
  </XMI.content>
  <XMI.extensions xmi.extender="umbrello">
-  <docsettings viewid="u0zOix5JVzDvE" documentation="" uniqueid="uQIxPceqR8FMI"/>
+  <docsettings viewid="u0zOix5JVzDvE" documentation="" uniqueid="usFrsek0QDsV1"/>
   <listview>
    <listitem id="Views" type="800" open="1">
     <listitem id="Entity_Relationship_Model" type="836" open="1"/>
     <listitem id="Use_Case_View" type="802" open="1">
      <listitem id="uZdE9bXroManz" type="812" open="1"/>
+     <listitem id="ugR3igSJRTDOq" type="812" open="1"/>
      <listitem id="u7hazY7n267ip" type="812" open="1"/>
      <listitem id="uNfjwMIT3AsMl" type="812" open="1"/>
      <listitem id="uAxIHcAHrYWqU" type="812" open="1"/>
